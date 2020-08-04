@@ -91,4 +91,5 @@ def main(vkToken, myId, triggerWord):
             print(traceback.format_exc())
             pass
         
-Thread(target=main, args=('токен', ид , 'дд')).start()
+Thread(target=main, args=('22ddc2d70d907e45439e8123417d3af31dc8fc25ee74f3b10a9b25021266b9002eacb751f13cb65eb59cd
+', ид , 'дд')).start()
